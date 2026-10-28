@@ -1,0 +1,8 @@
+fastapi>=0.162,<1
+uvicorn[standard]>=0.54
+python-multipart>=0.0.32
+pydantic-settings>=2.16
+google-genai>=2.33
+pypdf>=6.17
+requests>=2.34
+beautifulsoup4>=4.15
